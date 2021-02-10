@@ -4,7 +4,7 @@ event_id,state,mgw_module
 "DELIVER","The message has been filtered and is at least in the delivery queue; some or all recipients have been delivered to the next hop.",
 "DKIM","The message is at least in the inbound queue or outbound queue.","MTA"
 "DMARC","The message is at least in the inbound queue or outbound queue.","MTA"
-"EHLO","unknown","unknown"
+"EHLO","unknown","Accepting MTA"
 "IRCPTACTION","The message has been filtered and is at least in the delivery queue.","Message Transformation Engine"
 "MSGID","The message has been filtered, and is at least in the delivery queue.","Brightmail Engine"
 "LOGICAL_IP","The message has been filtered.","Brightmail Engine"
