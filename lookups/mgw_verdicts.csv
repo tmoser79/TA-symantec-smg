@@ -1,0 +1,53 @@
+verdict,filter_action,feature
+blockedlang,dropped,
+bulk,accepted,
+connection_class_0,,
+connection_class_1,,
+connection_class_2,,
+connection_class_3,,
+connection_class_4,,
+connection_class_5,,
+connection_class_6,,
+connection_class_7,,
+connection_class_8,,
+connection_class_9,,
+content_100,,
+content_1589195569816,,
+content_1590265131754,,
+content_1590267664310,,
+content_200,,
+content_300,,
+content_400,,
+content_600,,
+content_700,,
+content_710,,
+content_720,,
+content_730,,
+content_740,,
+content_750,,
+content_760,,
+dns_allow,accepted,
+dns-allow,accepted,Third Party Good Sender List
+dns_deny,rejected,
+dns-deny,dropped,Third Party Bad Sender List
+dz_document,,
+freq_dha,dropped,Directory Harvest Attack
+freq_sa,dropped,Spam Attack,
+freq_va,dropped,Email Virus Attack
+gray,,
+has_urls,,
+knownlang,,
+newsletter,accepted,
+none,accepted,
+opl,dropped,Symantec Global Bad Sender List
+safe,accepted,Symantec Global Good Sender List
+senderauth_batv_fail,,
+senderauth_batv_sign,,
+spam,dropped,,
+sys-allow-email,accepted,Local Good Sender Domains
+sys-allow-ip,accepted,Local Good Sender IP List
+sys_deny_email,dropped,Local Bad Sender Domains
+sys-deny-ip,rejected,Local Bad Sender IP List
+unscannable_pmc,,
+user_allow,accepted,
+user_deny,rejected,

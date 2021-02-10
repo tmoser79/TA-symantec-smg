@@ -1,0 +1,8 @@
+status,description
+none,"No SPF record was found for the domain."
+neutral,"The domain owner stated in the SPF record that they do not want to assert that the IP address is authorized to send from the domain."
+pass,"The IP address is authorized to send from the domain."
+fail,"The IP address is not authorized to send from the domain. The SPF record does not contain the sending server or IP address used for sending email to the mailbox provider."
+softfail,"The IP address may or may not be authorized to send from the domain."
+temperror,"A temporary error occurred during the SPF verification process. This result is often due to technical issues that took place during the verification process. Temperrors do not necessarily mean the SPF record is invalid."
+permerror,"The published SPF record could not be verified by the mailbox provider."
