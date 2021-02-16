@@ -1,4 +1,4 @@
-mgw_verdict,cim_action,mgw_feature,mgw_category
+mgw_verdict,cim_action,mgw_feature,mgw_verdict_category
 sys_allow_ip,accepted,Local Good Sender IP List,Malware
 sys_deny_ip,rejected,Local Bad Sender IP List,Malware
 blockedlang,dropped,,
