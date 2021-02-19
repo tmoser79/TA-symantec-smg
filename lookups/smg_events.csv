@@ -1,4 +1,4 @@
-event_id,state,mgw_module
+event_id,state,smg_module
 "ACCEPT","The message is at least in the inbound queue or outbound queue.","Accepting MTA"
 "ATTACH","The message has been filtered and is at least in the delivery queue.","Brightmail Engine"
 "DELIVER","The message has been filtered and is at least in the delivery queue; some or all recipients have been delivered to the next hop.",
