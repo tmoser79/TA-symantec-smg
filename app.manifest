@@ -1,11 +1,11 @@
 {
   "schemaVersion": "1.0.0",
   "info": {
-    "title": "Splunk add-on for Symantec Messaging Gateway",
+    "title": "Splunk Add-on for Symantec Messaging Gateway",
     "id": {
       "group": null,
-      "name": "Alef_TA_symantec_mgw",
-      "version": "1.0.1alpha10"
+      "name": "Alef_TA_symantec_smg",
+      "version": "1.0.1alpha11"
     },
     "author": [
       {
