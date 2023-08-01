@@ -1,0 +1,28 @@
+[eventtypes/symantec_smg_audit]
+owner = admin
+version = 8.0.3
+modtime = 1612902447.511696000
+
+[tags/eventtype%3Dsymantec_smg_audit]
+owner = admin
+version = 8.0.3
+modtime = 1612963952.201559000
+
+[eventtypes/symantec_smg_audit_virus]
+owner = admin
+version = 8.0.3
+modtime = 1612969832.441491000
+
+[tags/eventtype%3Dsymantec_smg_audit_virus]
+owner = admin
+version = 8.0.3
+modtime = 1612969857.753326000
+
+[lookups/smg_verdicts.csv]
+version = 8.0.3
+modtime = 1613472775.375476000
+
+[props/symantec%3Asmg%3Aaudit]
+owner = admin
+version = 8.0.3
+modtime = 1613507193.903450000

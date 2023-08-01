@@ -4,7 +4,7 @@
     "title": "Splunk Add-on for Symantec Messaging Gateway",
     "id": {
       "group": null,
-      "name": "Alef_TA_symantec_smg",
+      "name": "TA-symantec-smg",
       "version": "1.0.1alpha12"
     },
     "author": [
